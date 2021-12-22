@@ -1,0 +1,42 @@
+{
+  "id": "0e86b9d1-687a-4a85-ad2f-d98349e41dec",
+  "name": "WNS Portal Extension 3",
+  "publisher": "Winspire",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "9ba32526-9611-41d7-b4a0-e36040768673",
+      "publisher": "Winspire",
+      "name": "WNS Portal Extension 1",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "b4f3351d-2fc2-4fd3-930a-e2e51b5edd59",
+      "name": "WNS Portal Extension 2",
+      "publisher": "Winspire",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
